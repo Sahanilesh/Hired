@@ -32,7 +32,7 @@ const router = createBrowserRouter([
         element: <JobPage />
       },
       {
-        path:'/post-job',
+        path:'/post-jobs',
         element: <PostJob />
       },
       {
